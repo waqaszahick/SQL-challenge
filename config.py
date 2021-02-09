@@ -1,5 +1,5 @@
-user_name = "postgres"
-password = "1Allaah&1Islaam!"
+user_name = "user_name"
+password = "password"
 host = "127.0.0.1"
 port = "5432"
-database_name = "sql_challenge"
+database_name = "database_name"
