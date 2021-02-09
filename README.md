@@ -1,7 +1,7 @@
 # SQL-challenge
 SQL Assignment
 
-This is my overall 8th and first SQL assignment. In this assignment, I have performed the following tasks:
+This is my overall 9th and first SQL assignment. In this assignment, I have performed the following tasks:
 * Designed the tables to hold data in the CSVs
 * Imported the CSVs into a SQL database, and performed:
 	- Data Engineering or Data Modeling:
